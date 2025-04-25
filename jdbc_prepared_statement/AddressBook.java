@@ -23,7 +23,6 @@ public class AddressBook {
     }
 
     public boolean addPerson(Person p) {
-        // UC7: Check for duplicate person in AddressBook
         if (contacts.contains(p)) {
             return false;
         }
