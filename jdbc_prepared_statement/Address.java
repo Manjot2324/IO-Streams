@@ -8,12 +8,12 @@ import lombok.NoArgsConstructor;
 public class Address {
     private int addressId;
     private String street;
-    private String city;
+    private String City;
     private String state;
     private String zip;
 
-    public Address(String city, String street, String state, String zip) {
-        this.city = city;
+    public Address(String City, String street, String state, String zip) {
+        this.city = City;
         this.street = street;
         this.state = state;
         this.zip = zip;
