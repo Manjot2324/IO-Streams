@@ -1,5 +1,3 @@
-package org.rituraj;
-
 import java.sql.*;
 import java.time.LocalDate;
 import java.util.Enumeration;
