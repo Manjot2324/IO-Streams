@@ -1,5 +1,3 @@
-package org.rituraj;
-
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
@@ -25,7 +23,6 @@ public class AddressBook {
     }
 
     public boolean addPerson(Person p) {
-        // UC7: Check for duplicate person in AddressBook
         if (contacts.contains(p)) {
             return false;
         }
