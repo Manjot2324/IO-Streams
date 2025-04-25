@@ -5,7 +5,6 @@ import java.util.Enumeration;
 public class App {
 
     public static void main(String[] args) {
-        // UC1: Loading the driver and connection
         String url = "jdbc:mysql://localhost:3306/address_book_service";
         String user = "root";
         String pswd = "root";
