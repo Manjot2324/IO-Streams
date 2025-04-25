@@ -1,4 +1,4 @@
-package org.rituraj;
+package org.manjot;
 
 /**
  * Hello world!
@@ -6,6 +6,7 @@ package org.rituraj;
  */
 public class App 
 {
+
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
