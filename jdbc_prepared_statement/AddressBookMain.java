@@ -8,7 +8,6 @@ import java.util.Scanner;
 
 public class AddressBookMain {
 
-    //UC6: Map to store multiple address books
     private Map<String, AddressBook> bookMap;
     private Scanner sc;
     private CRUD crud;
