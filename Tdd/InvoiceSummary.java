@@ -1,5 +1,3 @@
-package org.rituraj;
-
 public class InvoiceSummary {
     private final int totalRides;
     private final double totalFare;
