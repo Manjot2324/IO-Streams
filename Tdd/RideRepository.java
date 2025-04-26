@@ -1,5 +1,3 @@
-package org.rituraj;
-
 import java.util.*;
 
 public class RideRepository {
