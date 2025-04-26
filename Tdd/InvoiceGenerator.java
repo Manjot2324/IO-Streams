@@ -1,5 +1,3 @@
-package org.rituraj;
-
 public class InvoiceGenerator {
     public InvoiceGenerator(){}
     private static final double COST_PER_KM = 10;
